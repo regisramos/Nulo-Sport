@@ -22,3 +22,5 @@
     <input required value="<?php echo $Localitys['country']; ?>" type="text" placeholder="Equipe" name="update_country">
     <button type="submit">Confirmar</button>
 </form>
+
+
